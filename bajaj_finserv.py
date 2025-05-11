@@ -1,7 +1,4 @@
 import requests
-import json
-from datetime import datetime
-import sqlite3
 from urllib.parse import urlparse
 
 def generate_webhook():
